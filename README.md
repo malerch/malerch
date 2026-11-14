@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Max Lerch
+
+
+
+- I've been coding for over 7 years in Python and Lua
+- I'm an undergrad at the University of Twente and learning on Boot.dev in my free time
+- At the moment I'm learning Go and C for personal projects, plus Java for school
+- You can reach me by email at [work@malerch.com](work@malerch.com)
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/maximilian-lerch-a25642321/)
 
 <!--
 **malerch/malerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
